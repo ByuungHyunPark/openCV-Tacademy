@@ -5,4 +5,4 @@
   - 출력 : class, confidence, coordinate 드으이 저보를 담고 있는 4차원의 행렬
   - shape=(1, 1, N, 7)
 - __얼굴 검출 예시__
-![](readme.png)
+![](readme_.png)
